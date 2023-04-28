@@ -20,7 +20,7 @@ jobs:
     
     defaults:
       run:
-        working-directory: /Users/admin/Desktop/action-target
+        working-directory: /Users/admin/Desktop/action-target/
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
