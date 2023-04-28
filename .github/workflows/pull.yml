@@ -27,6 +27,5 @@ jobs:
       - name: Git pull
         run: |
           git pull
-          echo "Git pull ok"
-        working-directory: /Users/admin/Desktop/action-target
+          echo "Git pull ok"        
 
